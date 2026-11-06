@@ -1,0 +1,25 @@
+Choose your problem and technology
+Problem: Choice overload when searching books that suitable for the current emotion 
+Technology: Emotion-Aware Books Recommendation System using Natural Language processing (NLP)
+
+Part A: Problem Formulation 
+Problem Statement
+Readers often struggle to choose books that match their current emotional state, especially when selecting their next read from a long To-Be-Read (TBR) list. Conventional book recommendation systems commonly rely on factors such as genre, author, and previous ratings, which may not adequately consider the reader's current mood (Unnisa & Akshaya, 2024). For example, a reader who feels sad may prefer a light-hearted book with a happy ending, but conventional recommendation systems may not account for this preference. As a result, readers may spend more time searching for suitable books and experience choice overload and decision fatigue (Liu et al., 2026; Malakul & Songmuang, 2026). Therefore, there is a need for an emotion-aware book recommendation approach that uses Natural Language Processing (NLP) to analyse emotional preferences and recommend books that better match the reader's current mood.
+
+A2 Users and scope: 
+
+Primary users: Casual readers and book lovers who experience difficulty choosing books that match their current emotional state.
+Stakeholders: Book publishers, book club communities, and book reviewers who understand readers' preferences.
+
+In scope:
+Allowing readers to enter or select their current emotional state.
+Using Natural Language Processing (NLP) to analyse readers' state of emotion and  textual data of synopses of the books.
+Identifying emotions related to the books.
+Digital library to store books in a To-Be-Read (TBR) list.
+Displaying recommended books with their titles and relevant descriptions.
+
+Out of scope:
+Payment processing and direct book purchasing.
+Social networking features, such as private messaging and community posting.
+Physical book delivery and order tracking.
+General book-related event management and location mapping, as these are separate from the specific recommendation problem addressed in this assignment.
